@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HisterCmdPal (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "HisterCmdPal (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

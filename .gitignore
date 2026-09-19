@@ -1,0 +1,6 @@
+.vscode/
+/HisterCmdPal/bin/
+/HisterCmdPal/obj/
+/HisterCmdPal/AppPackages/
+.DS_Store
+Thumbs.db
