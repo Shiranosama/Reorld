@@ -1,5 +1,5 @@
 ## Reorld
-一个极简的[hister](github.com/asciimoo/hister) API封装，适用于PowerToys CommandPalette
+一个极简的[hister](https://github.com/asciimoo/hister) API封装，适用于PowerToys CommandPalette
 
 ### 特性
 - 自定义服务器域名
